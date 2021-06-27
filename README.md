@@ -21,7 +21,7 @@ It will:
 ## The Discord bot
 
 You can create you're own bot in [here](https://discord.com/developers/applications).
-You will need to give the bot Intents permission before also when you invite the bot into a server.
+You will need to give the bot Privileged Intents permission before also when you invite the bot into a server.
 You will need to enter the bot's token into main.py. When you're ready to launch the bot, run **main.py**.
 
 # Work that needs to be done:
